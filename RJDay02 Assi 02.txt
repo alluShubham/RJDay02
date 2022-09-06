@@ -1,0 +1,21 @@
+When to use Grid:
+================================================
+Grid are used when we need to represent the things in Two dimensions.
+We cane use the grid with the help of row and column, and with the help of this
+you can easily make many more boxes within short time period.
+Syntax for creating grid:
+display: grid property ,
+To create rows we have to use the "grid-template-rows" property,
+To create columns we have to use the "grid-template-columns" property.
+IT is used for making web pages responsive.
+========================================================
+
+When to use flex:
+=======================================
+Flex is also used for making web pages responsive.
+Flex is a one-dimensional layout system, we can use it vertically
+ or horizontally.
+Syntax for creating grid:
+display: flex property ,
+flex default direction is in row form.
+Use flex-direction: column property.
